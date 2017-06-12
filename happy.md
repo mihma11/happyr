@@ -1,6 +1,8 @@
 ---
 title: "I have made a beautiful report"
-output: pdf_document
+output:
+  html_document: default
+  pdf_document: default
 ---
 
 ```{r setup, include=FALSE}
